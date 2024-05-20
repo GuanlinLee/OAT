@@ -1,4 +1,4 @@
-# Omnipotent Adversarial Training for Unknown Label-noisy and Imbalanced Datasets [[pdf](https://arxiv.org/abs/2307.08596)]
+# Omnipotent Adversarial Training in the Wild [[pdf](https://arxiv.org/abs/2307.08596)]
 
 Introduction: This paper introduced a new practical challenge in adversarial training, i.e., how to train a robust model on a label-noisy and imbalanced dataset. Our proposed OAT can effectively address such a problem. Notice: This paper is not related to using adversarial training to solve label noise and long-tail problems. It is actually a new research area.
 
